@@ -42,14 +42,16 @@ It's highly suggested to read the [State Media Monitor's full typology](https://
 
 ### Website Data 
 This data aims to be comprehensive, not exhaustive and is aimed at finding fully qualified domain names where a reasonable user could encounter relevant content or find more inforation about the media asset. In practice, this means a few sites may have minimal or no 'media' content but are included e cause they host information about, for example, the set of redio stations they administer. 
-> Definition: Fully Qualified Domain Name
+>**Definition: Fully Qualified Domain Name**
+> 
 > A fully qualified domain name (FQDN) is the complete address of an internet host or computer. It consists of the subdomain, domain name, and top-level domain (TLD). For example, an FQDN in the data is arabic.people.com.cn, which breaks down into a subdomain of 'arabic', a domain of 'people' and a TLD of 'com.cn'
 If any of these (subdomain, domain name, or top-level domain) is different, even in the same organization, a new entry is merited. For example, www.bbc.com vs www.bbc.co.uk or espanol.cgtn.com vs francais.cgtn.com 
 
 #### Caveats
 Notable exclusions from this data:
-- Content delivery networks (cdns) - many sites use subdomains or other websites to deliver images, video, and other non-textual content to their website. e.g. **https://cdn-storage-media.tass.ru/**resize/108x72/tass_media/2023/08/10/i/1691696921773674_i_n8o-f8.jpg
-- Test and mobile subdomains - many sites will use seperate subdomains (e.g. **m.**example.com) for their mobile site or surface content from their test or beta sites, like **https://test.example.com**
+- Content delivery networks (cdns) - many sites use subdomains or other websites to deliver images, video, and other non-textual content to their website. e.g. **cdn-storage-media.tass.ru/**
+- Test and mobile subdomains - many sites will use seperate subdomains (e.g. **m.**example.com) for their mobile site or surface content from their test or beta sites, like **test.example.com**
+- Any other subdomain unlikely to be encountered during normal use, including rss feeds, mail servers, authentication, intranets, etc.
 
 Notable choices for inclusion
 - Mirror sites with similar registration information. Mirror sites typically cant't be proven to belong to a given entity, but in cases where they are, inclusion of mirror sites is acceptable. A good example of this is swentr.site, which is registered to the same entity as rt.com, ANO TV-Novosti
@@ -62,6 +64,5 @@ Forthcoming
 All data not in these columns (Country, Media Company, Main Assets, and Typology) was manually entered and reviewed by a human, and is therefore prone to mistakes or omissions. If you think something was missed or is incorrect please submit a pull request or contact Peter at pbenzoni (at) gmfus.org.
 As mentioned, the seed data for this project was provided by the [State Media Monitor](https://statemediamonitor.com). Substantial addititional contributions were also sourced from projects from the Alliance for Securing Democracy.
 
-<img src="https://ejv4sgc4dt4.exactdn.com/wp-content/uploads/2023/06/cropped-MJRC-Logo-Crimson-White.png" alt="drawing" width="256"/>
-<img src="https://b2231874.smushcdn.com/2231874/wp-content/uploads/2023/05/ASD-Logo.png" alt="drawing" width="256"/>
+<img src="https://ejv4sgc4dt4.exactdn.com/wp-content/uploads/2023/06/cropped-MJRC-Logo-Crimson-White.png" alt="drawing" height="100"/> <img src="https://b2231874.smushcdn.com/2231874/wp-content/uploads/2023/05/ASD-Logo.png" alt="drawing" height="100" />
 
