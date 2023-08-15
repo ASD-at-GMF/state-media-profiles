@@ -62,7 +62,11 @@ Forthcoming
 
 ## Sourcing 
 All data not in these columns (Country, Media Company, Main Assets, and Typology) was manually entered and reviewed by a human, and is therefore prone to mistakes or omissions. If you think something was missed or is incorrect please submit a pull request or contact Peter at pbenzoni (at) gmfus.org.
-As mentioned, the seed data for this project was provided by the [State Media Monitor](https://statemediamonitor.com). Substantial addititional contributions were also sourced from projects from the Alliance for Securing Democracy.
+As mentioned, the seed data for this project was provided by the [State Media Monitor](https://statemediamonitor.com). Substantial addititional contributions were also sourced from projects from the [Alliance for Securing Democracy.](https://securingdemocracy.gmfus.org/)
 
-<img src="https://ejv4sgc4dt4.exactdn.com/wp-content/uploads/2023/06/cropped-MJRC-Logo-Crimson-White.png" alt="drawing" height="100"/> <img src="https://b2231874.smushcdn.com/2231874/wp-content/uploads/2023/05/ASD-Logo.png" alt="drawing" height="100" />
-
+## Contributor Organizations
+Click the logo to be directed to the contributor site
+\
+\
+[<img src="https://securingdemocracy.gmfus.org/wp-content/uploads/2023/08/MJRC-Logo-FT-1.png" alt="MJRC Logo" height="256"/>](https://journalismresearch.org/) [<img src="https://securingdemocracy.gmfus.org/wp-content/uploads/2023/08/cropped-asd-social-icon-w-bg-01.png" alt="ASD Logo" height="256" />
+](https://securingdemocracy.gmfus.org/)
