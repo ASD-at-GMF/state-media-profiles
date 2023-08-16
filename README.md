@@ -8,6 +8,7 @@ The seed data (Country, Media Company, Main Assets, and Typology) were provided 
 
 This project was substantially contributed to by the following individuals:
 - Ayleen Cameron, Alliance for Securing Democracy, acameron (at) gmfus.org
+- Gabriele Sava, Alliance for Securing Democracy
 - Fabienne Aleth, Alliance for Securing Democracy
 - Bret Schafer, Alliance for Securing Democracy, bschafer (at) gmfus.org
 - Peter Benzoni, Alliance for Securing Democracy, pbenzoni (at) gmfus.org
