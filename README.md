@@ -59,7 +59,20 @@ Notable choices for inclusion
 - 'Duplicate' sites, with a shared parent organization. A good example of this is Spain's [Canal Sur](https://www.canalsur.es/), which runs both television and radio services.
 
 ### Social Media URLs
-Forthcoming
+When known and available, links to the social media profiles of each state media entry is provided for the following sites:
+- Instagram
+- Twitter
+- Facebook
+- Youtube
+- Telegram
+- VK
+- Linkedin
+- Ok.ru
+- Tiktok
+- Rutube
+- Other streaming media 
+
+This data was primarily sourced from WikiData and manual classification. 
 
 ## Sourcing 
 All data not in these columns (Country, Media Company, Main Assets, and Typology) was manually entered and reviewed by a human, and is therefore prone to mistakes or omissions. If you think something was missed or is incorrect please submit a pull request or contact Peter at pbenzoni (at) gmfus.org.
