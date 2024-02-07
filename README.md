@@ -78,6 +78,11 @@ This data was primarily sourced from WikiData and manual classification.
 All data not in these columns (Country, Media Company, Main Assets, and Typology) was manually entered and reviewed by a human, and is therefore prone to mistakes or omissions. If you think something was missed or is incorrect please submit a pull request or contact Peter at pbenzoni (at) gmfus.org.
 As mentioned, the seed data for this project was provided by the [State Media Monitor](https://statemediamonitor.com). Substantial addititional contributions were also sourced from projects from the [Alliance for Securing Democracy.](https://securingdemocracy.gmfus.org/)
 
+## Using the RSS parser
+1. Create a file, config.py in the root of the repository and provide the following, each on a line: DB_FILE, (leave this empty, used to be a path to a sqllite database ) MEDIA_FILE, (a link to the State Media Excel file) SOURCE_TYPE, (either 'database' or 'excel', indicating where to source its list of rss feeds)  POSTGRES_STRING (a valid postgres database string, e.g 'postgresql://username:USER-PASSWORD@path.to.hosted.database.service:26257/database?sslmode=verify-full'
+2. ```pip install traceback lxml psycopg2 concurrent pandas nltk sqlite3 newspaper3k feedparser```
+3. run the file in your execution environment of choice
+
 ## Contributor Organizations
 Click the logo to be directed to the contributor site
 \
